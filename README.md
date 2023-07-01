@@ -12,7 +12,7 @@ Technology
 This app is built with React on the front end and has a backend that is being developed. The backend will likely be built with a server-side language such as Node.js, and will use a database to store customer and vehicle information.
 
 Contributing
-This app is currently being developed by a team of developers. If you are interested in contributing to the project, please contact the project lead for more information.
+This app is currently being developed by me. If you are interested in contributing to the project, please contact the project lead for more information.
 
 License
 This app is not yet available for distribution and does not yet have a license. Once it is released, the license will be included in the distribution package.
